@@ -1,4 +1,4 @@
-// read.js
+// Let op! Werkt met Node versie 18+
 const readline = require("readline/promises");
 const {stdin: input, stdout: output} = require('process')
 
@@ -10,3 +10,5 @@ async function startReadLine() {
 }
 
 startReadLine();
+
+console.log("Mijn eerste Node JS app");
