@@ -1,5 +1,10 @@
 # Getting started
 
+## Voordat je begint
+Als je nog geen idee hebt wat Node JS is, lees dan de powerpoint door van meneer Thong, zie Teams -> kanaal JavaScript -> Bestanden...
+Hou je niet van lezen, bekijk de video op: [Node JS introductie](https://www.youtube.com/watch?v=2Co5dJwZBRY) 
+
+
 ## De te volgen stappen
 1. Clone het project
 2. Open het project in VSCode
