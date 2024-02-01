@@ -7,8 +7,8 @@ const rl = readline.createInterface({input, output});
 async function startReadLine() {
     let answer = await rl.question("Hoe heet je? ");
     console.log(`Hallo ${answer}!`);
+
+    rl.close();
 }
 
 startReadLine();
-
-console.log("Mijn eerste Node JS app");
